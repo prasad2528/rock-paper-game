@@ -1,0 +1,32 @@
+.score-container {
+  width: 800px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #ffffff;
+  border: 2px solid #fff;
+  border-radius: 12px;
+  padding: 10px 30px;
+}
+.score-details {
+  width: 150px;
+  height: 80px;
+  border-radius: 12px;
+  background-color: #ffffff;
+  color: #000;
+  text-align: center;
+  padding-bottom: 10px;
+  padding-top: -20px;
+}
+.header-list {
+  list-style-type: none;
+}
+.score {
+  font-weight: 700;
+  font-size: 30px;
+  margin-top: -10px;
+  font-family: 'Roboto';
+}
+.heading {
+  font-family: 'Roboto';
+}
